@@ -1,6 +1,6 @@
 # PREPARATION-SE-BE
 
-Welcome to **preparation-se-be**, the frontend repository for study, preparation, and software engineering interview readiness.
+Welcome to **preparation-se-be**, the backend repository for study, preparation, and software engineering interview readiness.
 
 ## Branch Workflow
 
